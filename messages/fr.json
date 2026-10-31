@@ -1,0 +1,1273 @@
+{
+  "metadata": {
+    "title": "Ouvra, artisans et prestataires vérifiés au Cameroun",
+    "description": "Plombiers, électriciens, coiffeuses, menuisiers et plus de 50 métiers. Des prestataires vérifiés près de chez vous, payés par Mobile Money.",
+    "keywords": "services,prestataires,Cameroun,marketplace,plombier,électricien,coiffeur"
+  },
+  "common": {
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "create": "Créer",
+    "close": "Fermer",
+    "confirm": "Confirmer",
+    "search": "Rechercher",
+    "loading": "Chargement...",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "seeAll": "Voir tout",
+    "seeMore": "Voir plus",
+    "noResults": "Aucun résultat",
+    "error": "Une erreur est survenue",
+    "retry": "Réessayer",
+    "required": "Requis",
+    "optional": "Optionnel",
+    "yes": "Oui",
+    "no": "Non",
+    "all": "Tous",
+    "actions": "Actions",
+    "status": "Statut",
+    "date": "Date",
+    "amount": "Montant",
+    "total": "Total",
+    "reviews": "avis",
+    "from": "À partir de",
+    "page": "Page",
+    "of": "sur"
+  },
+  "nav": {
+    "home": "Accueil",
+    "services": "Trouver un pro",
+    "providers": "Prestataires",
+    "howItWorks": "Comment ça marche",
+    "login": "Connexion",
+    "register": "Inscription",
+    "dashboard": "Tableau de bord",
+    "myProfile": "Mon profil",
+    "settings": "Paramètres",
+    "logout": "Déconnexion",
+    "toggleTheme": "Changer le thème",
+    "theme": "Thème",
+    "menu": "Menu",
+    "close": "Fermer",
+    "language": "Langue",
+    "becomeProvider": "Devenir prestataire"
+  },
+  "footer": {
+    "description": "Des artisans et des indépendants vérifiés, dans votre quartier, partout au Cameroun.",
+    "location": "Douala, Cameroun",
+    "sections": {
+      "services": "Services",
+      "company": "Entreprise",
+      "support": "Support",
+      "legal": "Légal"
+    },
+    "links": {
+      "plumbing": "Plomberie",
+      "electricity": "Électricité",
+      "cleaning": "Ménage",
+      "hairdressing": "Coiffure",
+      "carpentry": "Menuiserie",
+      "allServices": "Tous les services",
+      "howItWorks": "Comment ça marche",
+      "testimonials": "Témoignages",
+      "faq": "FAQ",
+      "helpCenter": "Centre d'aide",
+      "becomeProvider": "Devenir prestataire",
+      "contact": "Nous contacter",
+      "terms": "Conditions d'utilisation",
+      "privacy": "Confidentialité",
+      "legalNotice": "Mentions légales"
+    },
+    "newsletter": {
+      "title": "Restez informé",
+      "subtitle": "Recevez nos actualités et offres exclusives.",
+      "placeholder": "votre@email.com",
+      "subscribe": "S'abonner"
+    },
+    "rights": "Tous droits réservés.",
+    "madeWith": "Fait avec",
+    "inCameroon": "au Cameroun",
+    "contact": {
+      "phone": "Téléphone",
+      "email": "Email",
+      "office": "Bureau"
+    }
+  },
+  "landing": {
+    "hero": {
+      "title": "Trouvez un artisan vérifié près de chez vous",
+      "sentenceStart": "Il me faut",
+      "sentenceIn": "à",
+      "tradeLabel": "Métier recherché",
+      "cityLabel": "Ville",
+      "search": "Chercher",
+      "payment": "Paiement par Orange Money, MTN MoMo ou carte bancaire.",
+      "popular": "Recherches fréquentes",
+      "popularItems": [
+        "Plombier à Akwa",
+        "Coiffeuse à Bastos",
+        "Frigoriste à Bonamoussadi",
+        "Répétiteur à Biyem-Assi"
+      ],
+      "panelTitle": "Disponibles maintenant",
+      "panelCity": "Douala et Yaoundé",
+      "respondsIn": "répond en {minutes} min",
+      "seeAll": "Voir tous les prestataires disponibles",
+      "trades": {
+        "plumbing": "un plombier",
+        "electricity": "un électricien",
+        "cleaning": "une aide ménagère",
+        "beauty": "une coiffeuse",
+        "carpentry": "un menuisier",
+        "painting": "un peintre",
+        "airConditioning": "un frigoriste",
+        "it": "un informaticien",
+        "tutoring": "un répétiteur",
+        "moving": "des déménageurs",
+        "photography": "un photographe",
+        "catering": "un traiteur"
+      },
+      "live": {
+        "label": "Démonstration en direct",
+        "statusSending": "Demande envoyée aux prestataires de {city}",
+        "statusAnswers": "{count, plural, one {# réponse} other {# réponses}} en {seconds} secondes",
+        "statusChosen": "{name} est en route, arrivée dans {minutes} min",
+        "yourRequest": "Votre demande",
+        "at": "à {area}",
+        "away": "à {km} km",
+        "respondsIn": "répond en {minutes} min",
+        "from": "dès {price}",
+        "choose": "Choisir",
+        "chosen": "Choisi",
+        "replay": "Rejouer la démonstration",
+        "you": "Vous",
+        "srSummary": "Exemple : une demande « {request} » à {area} reçoit trois réponses de prestataires proches en quelques secondes.",
+        "requests": {
+          "plumbing": "Fuite sous l’évier",
+          "electricity": "Disjoncteur qui saute le soir",
+          "airConditioning": "Clim qui ne refroidit plus",
+          "beauty": "Tresses pour samedi matin",
+          "cleaning": "Grand ménage d’un appartement",
+          "carpentry": "Porte de chambre à réparer",
+          "painting": "Salon à repeindre",
+          "it": "Ordinateur qui ne démarre plus",
+          "tutoring": "Maths niveau 3e, deux soirs par semaine",
+          "moving": "Déménagement d’un studio",
+          "photography": "Photos d’anniversaire dimanche",
+          "catering": "Repas pour 40 personnes"
+        }
+      },
+      "hint": "Touchez un mot surligné pour le changer : la démonstration suit."
+    },
+    "categories": {
+      "title": "Un métier pour chaque besoin",
+      "subtitle": "Plus de 50 catégories, des réparations urgentes aux cours du soir.",
+      "viewAll": "Voir toutes les catégories",
+      "pros": "{count} pros",
+      "items": {
+        "plumbing": {
+          "label": "Plomberie",
+          "description": "Fuites, installation, débouchage"
+        },
+        "electricity": {
+          "label": "Électricité",
+          "description": "Dépannage, câblage, mise aux normes"
+        },
+        "cleaning": {
+          "label": "Ménage",
+          "description": "Nettoyage, repassage, entretien"
+        },
+        "beauty": {
+          "label": "Coiffure et beauté",
+          "description": "Tresses, maquillage, ongles"
+        },
+        "carpentry": {
+          "label": "Menuiserie",
+          "description": "Meubles, portes, charpente"
+        },
+        "painting": {
+          "label": "Peinture",
+          "description": "Intérieur, façade, finitions"
+        },
+        "airConditioning": {
+          "label": "Climatisation",
+          "description": "Pose, recharge, entretien"
+        },
+        "it": {
+          "label": "Informatique",
+          "description": "Dépannage, réseau, téléphones"
+        },
+        "tutoring": {
+          "label": "Cours particuliers",
+          "description": "Soutien scolaire, langues, musique"
+        },
+        "moving": {
+          "label": "Déménagement",
+          "description": "Transport, emballage, montage"
+        },
+        "photography": {
+          "label": "Photographie",
+          "description": "Mariages, portraits, vidéo"
+        },
+        "catering": {
+          "label": "Traiteur",
+          "description": "Réceptions, repas, pâtisserie"
+        }
+      }
+    },
+    "howItWorks": {
+      "title": "Comment ça marche",
+      "subtitle": "De la recherche à l'avis, tout se passe au même endroit.",
+      "cta": "Lancer une recherche",
+      "steps": {
+        "describe": {
+          "title": "Dites ce dont vous avez besoin",
+          "description": "Choisissez le métier et votre quartier. Ajoutez une photo ou deux lignes si le problème est précis."
+        },
+        "choose": {
+          "title": "Comparez et choisissez",
+          "description": "Notes, avis, tarifs de départ et disponibilités sont affichés sur chaque profil. Écrivez au prestataire avant de réserver."
+        },
+        "enjoy": {
+          "title": "Payez et notez",
+          "description": "Réglez par Mobile Money ou carte. Votre avis aide les voisins à choisir à leur tour."
+        }
+      }
+    },
+    "providers": {
+      "title": "Les mieux notés ce mois-ci",
+      "subtitle": "Classés selon les avis laissés après une prestation payée sur Ouvra.",
+      "viewAll": "Voir tous les prestataires",
+      "reviews": "{count} avis",
+      "from": "À partir de",
+      "available": "Disponible",
+      "scrollLeft": "Prestataires précédents",
+      "scrollRight": "Prestataires suivants",
+      "professions": {
+        "plumber": "Plombier",
+        "hairdresser": "Coiffeuse",
+        "electrician": "Électricien",
+        "cleaner": "Ménage et repassage",
+        "carpenter": "Menuisier",
+        "photographer": "Photographe",
+        "acTechnician": "Frigoriste",
+        "mathTutor": "Répétiteur de maths"
+      }
+    },
+    "trust": {
+      "title": "Ce qu'on vérifie pour vous",
+      "subtitle": "Un prestataire n'apparaît dans les résultats qu'après contrôle de sa pièce d'identité, de son métier et de deux références.",
+      "items": {
+        "verified": {
+          "title": "Identité contrôlée",
+          "description": "Pièce d'identité et numéro de téléphone vérifiés par notre équipe."
+        },
+        "reviews": {
+          "title": "Avis de vrais clients",
+          "description": "Seul un client ayant payé une prestation peut laisser une note."
+        },
+        "payment": {
+          "title": "Paiement tracé",
+          "description": "Orange Money, MTN MoMo et cartes. Chaque transaction a son reçu."
+        },
+        "messaging": {
+          "title": "Messagerie intégrée",
+          "description": "Vous échangez avec le prestataire sans donner votre numéro."
+        }
+      },
+      "figures": {
+        "providers": "prestataires actifs",
+        "clients": "clients",
+        "rating": "note moyenne",
+        "regions": "régions couvertes"
+      }
+    },
+    "testimonials": {
+      "title": "Ils en parlent",
+      "items": {
+        "aurelien": {
+          "role": "Client à Douala",
+          "text": "Fuite sous l'évier un dimanche. J'avais un plombier chez moi une heure plus tard, et le prix annoncé était le prix payé."
+        },
+        "christelle": {
+          "role": "Cliente à Yaoundé",
+          "text": "L'électricien est arrivé à l'heure, a expliqué ce qu'il faisait et a laissé la maison propre."
+        },
+        "patrick": {
+          "role": "Peintre à Bafoussam",
+          "text": "Avant, je travaillais surtout par le bouche-à-oreille. Aujourd'hui, la moitié de mes chantiers viennent d'Ouvra."
+        }
+      }
+    },
+    "coverage": {
+      "title": "Partout au Cameroun",
+      "subtitle": "De Maroua à Ebolowa, des prestataires sont inscrits dans les dix régions. Survolez une région pour voir le détail.",
+      "capital": "Chef-lieu",
+      "providers": "prestataires",
+      "verifiedProviders": "prestataires vérifiés dans le pays",
+      "mapLabel": "Carte des dix régions du Cameroun, colorées selon le nombre de prestataires inscrits",
+      "legendHint": "Survolez une région pour voir le détail",
+      "legendLow": "Moins",
+      "legendHigh": "Plus"
+    },
+    "faq": {
+      "title": "Questions fréquentes",
+      "contact": "Une autre question ? Écrivez-nous sur WhatsApp, on répond en journée.",
+      "contactCta": "Écrire sur WhatsApp",
+      "items": {
+        "how": {
+          "question": "Comment fonctionne Ouvra ?",
+          "answer": "Vous cherchez un métier dans votre ville, vous comparez les profils (avis, tarifs, disponibilités), puis vous écrivez au prestataire ou vous réservez directement. Le paiement et l'avis se font ensuite sur la plateforme."
+        },
+        "free": {
+          "question": "L'inscription est-elle gratuite ?",
+          "answer": "Oui, pour les clients comme pour les prestataires. Les prestataires peuvent souscrire un abonnement pour être mieux mis en avant, mais ce n'est pas obligatoire."
+        },
+        "verification": {
+          "question": "Comment les prestataires sont-ils vérifiés ?",
+          "answer": "Notre équipe contrôle la pièce d'identité, le numéro de téléphone et deux références de chantier avant la mise en ligne du profil. Les avis clients prennent ensuite le relais."
+        },
+        "payment": {
+          "question": "Quels moyens de paiement sont acceptés ?",
+          "answer": "Orange Money, MTN Mobile Money, Visa et Mastercard. Vous recevez un reçu après chaque paiement."
+        },
+        "problem": {
+          "question": "Que faire en cas de problème avec un prestataire ?",
+          "answer": "Signalez-le depuis la page de la réservation. Le support répond 7 jours sur 7 et peut suspendre un profil le temps de l'examen."
+        },
+        "cities": {
+          "question": "Dans quelles villes êtes-vous présents ?",
+          "answer": "Douala et Yaoundé ont le plus de prestataires. Bafoussam, Bamenda, Garoua, Kribi et les autres chefs-lieux suivent, avec de nouveaux inscrits chaque semaine."
+        },
+        "becomeProvider": {
+          "question": "Comment devenir prestataire ?",
+          "answer": "Créez un compte en choisissant « Prestataire », décrivez votre activité et votre tarif de départ, puis envoyez vos justificatifs. Votre profil est en ligne après vérification."
+        }
+      }
+    },
+    "cta": {
+      "title": "Vous êtes artisan ou indépendant ?",
+      "subtitle": "Créez votre profil gratuitement et recevez les demandes des clients de votre quartier.",
+      "register": "Créer mon profil prestataire",
+      "whatsapp": "Rejoindre le groupe WhatsApp"
+    },
+    "app": {
+      "title": "L’application arrive bientôt",
+      "subtitle": "Chercher, réserver, discuter et payer depuis votre téléphone. Les premiers inscrits sur le groupe WhatsApp seront prévenus du lancement.",
+      "features": [
+        "Notifications quand un prestataire répond",
+        "Prestataires autour de vous sur la carte",
+        "Demande urgente en un geste",
+        "Paiement Orange Money et MTN MoMo",
+        "Avis et reçus toujours à portée de main"
+      ],
+      "soon": "Bientôt disponible",
+      "ios": "App Store",
+      "android": "Google Play",
+      "notify": "Être prévenu sur WhatsApp",
+      "pause": "Mettre en pause",
+      "play": "Reprendre le défilement",
+      "screens": {
+        "label": "Aperçu de l’application",
+        "home": {
+          "greeting": "Bonjour Aïcha",
+          "ask": "Il me faut",
+          "trade": "un électricien",
+          "city": "à Yaoundé",
+          "search": "Chercher",
+          "nearby": "Disponibles près de vous",
+          "tabs": [
+            "Accueil",
+            "Recherche",
+            "Messages",
+            "Profil"
+          ]
+        },
+        "profile": {
+          "name": "Paul Kamga",
+          "trade": "Électricien, Bastos",
+          "reviews": "89 avis",
+          "from": "À partir de",
+          "book": "Réserver",
+          "message": "Écrire",
+          "about": "Dépannage, câblage et mise aux normes. Intervention dans l’heure à Yaoundé."
+        },
+        "pay": {
+          "title": "Paiement",
+          "service": "Dépannage électrique",
+          "total": "Total",
+          "method": "Moyen de paiement",
+          "orange": "Orange Money",
+          "mtn": "MTN MoMo",
+          "card": "Carte bancaire",
+          "confirm": "Payer 7 500 FCFA",
+          "done": "Paiement confirmé"
+        }
+      },
+      "soonOn": "Bientôt sur"
+    },
+    "prices": {
+      "title": "Combien ça coûte, vraiment ?",
+      "subtitle": "Ici, pas besoin de marchander à l’aveugle. Choisissez un service : voici les tarifs de départ affichés par les prestataires inscrits.",
+      "service": "Service",
+      "city": "Ville",
+      "allCities": "Tout le Cameroun",
+      "from": "À partir de",
+      "common": "Prix médian",
+      "upTo": "Jusqu’à",
+      "basedOn": "{count, plural, one {D’après # prestataire} other {D’après # prestataires}}",
+      "fewData": "Encore peu de prestataires sur ce service : la fourchette va s’affiner.",
+      "empty": "Pas encore de prestataire pour ce service dans cette ville.",
+      "emptyCta": "Voir les autres villes",
+      "see": "{count, plural, one {Voir le prestataire} other {Voir les # prestataires}}",
+      "note": "Le prix final se fixe avec le prestataire avant l’intervention. Vous payez ensuite par Mobile Money, et l’argent reste bloqué jusqu’à ce que le travail soit fait.",
+      "scale": "Échelle des prix en FCFA",
+      "dot": "{name}, {price}",
+      "loading": "Chargement des tarifs",
+      "error": "Les tarifs ne sont pas disponibles pour le moment.",
+      "same": "{count, plural, one {Tarif de départ affiché} other {Le même tarif de départ chez les #}}"
+    }
+  },
+  "auth": {
+    "or": "ou",
+    "google": "Google",
+    "login": {
+      "title": "Bon retour",
+      "subtitle": "Connectez-vous pour suivre vos demandes et vos messages.",
+      "email": "Adresse email",
+      "emailPlaceholder": "nom@exemple.com",
+      "password": "Mot de passe",
+      "passwordPlaceholder": "Votre mot de passe",
+      "forgotPassword": "Mot de passe oublié ?",
+      "rememberMe": "Se souvenir de moi",
+      "submit": "Se connecter",
+      "submitting": "Connexion en cours...",
+      "loading": "Connexion en cours…",
+      "noAccount": "Pas encore de compte ?",
+      "register": "Créer un compte",
+      "error": "Email ou mot de passe incorrect",
+      "emailRequired": "L'adresse email est requise",
+      "emailInvalid": "Adresse email invalide",
+      "passwordRequired": "Le mot de passe est requis",
+      "tabPhone": "Téléphone",
+      "tabEmail": "Email",
+      "phone": "Numéro de téléphone",
+      "phoneHint": "Orange ou MTN, sans le 237",
+      "sendCode": "Recevoir un code par SMS",
+      "sending": "Envoi…",
+      "codeSentTo": "Code envoyé au {phone}",
+      "codeSentHint": "Si ce numéro a un compte Ouvra, vous allez recevoir un SMS avec 6 chiffres.",
+      "code": "Code reçu par SMS",
+      "verify": "Se connecter",
+      "verifying": "Vérification…",
+      "resendIn": "Renvoyer le code dans {seconds} s",
+      "resend": "Renvoyer le code",
+      "changeNumber": "Changer de numéro",
+      "devCode": "Mode test : le SMS n’est pas envoyé. Code : {code}",
+      "noAccountPhone": "Pas de compte avec ce numéro ?",
+      "phoneInvalid": "Entrez les 9 chiffres de votre numéro, par exemple 6 90 00 01 01.",
+      "codeInvalid": "Le code fait 6 chiffres."
+    },
+    "register": {
+      "title": "Créer un compte",
+      "subtitle": "Gratuit, en moins de deux minutes.",
+      "roleClient": "Je cherche un pro",
+      "roleProvider": "Je propose mes services",
+      "stepAccount": "Compte",
+      "stepActivity": "Activité",
+      "firstName": "Prénom",
+      "firstNamePlaceholder": "Jean",
+      "lastName": "Nom",
+      "lastNamePlaceholder": "Dupont",
+      "email": "Adresse email",
+      "emailPlaceholder": "nom@exemple.com",
+      "phone": "Téléphone",
+      "phonePlaceholder": "6 90 00 01 01",
+      "gender": "Genre",
+      "genderSelect": "Sélectionner",
+      "genderMale": "Homme",
+      "genderFemale": "Femme",
+      "city": "Ville",
+      "cityPlaceholder": "Douala",
+      "password": "Mot de passe",
+      "passwordPlaceholder": "6 caractères minimum",
+      "acceptPrefix": "J'accepte les",
+      "acceptTerms": "conditions d'utilisation",
+      "acceptAnd": "et la",
+      "acceptPrivacy": "politique de confidentialité",
+      "continue": "Continuer",
+      "submit": "Créer mon compte",
+      "submitting": "Inscription en cours...",
+      "creatingAccount": "Création du compte…",
+      "creatingProvider": "Création de votre profil prestataire…",
+      "category": "Catégorie de service",
+      "categorySelect": "Sélectionner une catégorie",
+      "activityTitle": "Titre de votre activité",
+      "activityTitlePlaceholder": "Ex : Plombier professionnel",
+      "description": "Description",
+      "descriptionPlaceholder": "Décrivez vos services, votre expérience, vos spécialités...",
+      "startingPrice": "Tarif de départ (XAF)",
+      "availability": "Disponibilités",
+      "availabilityPlaceholder": "Lun - Sam, 8h - 18h",
+      "back": "Retour",
+      "submitProvider": "Créer mon compte prestataire",
+      "creating": "Création...",
+      "hasAccount": "Déjà inscrit ?",
+      "login": "Se connecter",
+      "genericError": "Une erreur est survenue lors de l'inscription",
+      "firstNameRequired": "Le prénom est requis",
+      "firstNameTooShort": "Le prénom doit contenir au moins 2 caractères",
+      "lastNameRequired": "Le nom est requis",
+      "lastNameTooShort": "Le nom doit contenir au moins 2 caractères",
+      "emailRequired": "L'adresse email est requise",
+      "emailInvalid": "Adresse email invalide",
+      "phoneRequired": "Le numéro de téléphone est requis",
+      "phoneInvalid": "Numéro camerounais invalide. Exemple : 6 90 00 01 01",
+      "passwordRequired": "Le mot de passe est requis",
+      "passwordTooShort": "Le mot de passe doit contenir au moins 6 caractères",
+      "genderRequired": "Veuillez sélectionner un genre",
+      "cityRequired": "La ville est requise",
+      "termsRequired": "Vous devez accepter les conditions d'utilisation",
+      "categoryRequired": "Sélectionnez une catégorie",
+      "titleRequired": "Titre requis (min. 3 caractères)",
+      "descriptionRequired": "Décrivez votre activité (min. 20 caractères)",
+      "priceInvalid": "Tarif de départ invalide",
+      "availabilityRequired": "Indiquez vos disponibilités",
+      "roleLegend": "Type de compte",
+      "roleClientHint": "Trouver, réserver et payer un prestataire.",
+      "roleProviderHint": "Recevoir des demandes près de chez moi."
+    },
+    "forgotPassword": {
+      "title": "Mot de passe oublié ?",
+      "subtitle": "Entrez votre adresse email et nous vous enverrons un code pour réinitialiser votre mot de passe.",
+      "email": "Adresse email",
+      "emailPlaceholder": "nom@exemple.com",
+      "submit": "Envoyer le code",
+      "submitting": "Envoi en cours...",
+      "backToLogin": "Retour à la connexion",
+      "successTitle": "Email envoyé",
+      "successBody": "Un code de réinitialisation a été envoyé à {email}. Vérifiez votre boîte de réception.",
+      "enterCode": "Entrer le code",
+      "genericError": "Une erreur est survenue. Veuillez réessayer."
+    },
+    "resetPassword": {
+      "title": "Réinitialiser le mot de passe",
+      "subtitle": "Entrez le code reçu par email et votre nouveau mot de passe.",
+      "back": "Retour",
+      "email": "Adresse email",
+      "emailPlaceholder": "nom@exemple.com",
+      "code": "Code de vérification",
+      "codePlaceholder": "Entrez le code reçu",
+      "password": "Nouveau mot de passe",
+      "passwordPlaceholder": "6 caractères minimum",
+      "submit": "Réinitialiser le mot de passe",
+      "submitting": "Réinitialisation...",
+      "successTitle": "Mot de passe réinitialisé",
+      "successBody": "Votre mot de passe a été réinitialisé avec succès. Vous pouvez maintenant vous connecter avec votre nouveau mot de passe.",
+      "goToLogin": "Se connecter",
+      "rememberPassword": "Vous vous souvenez de votre mot de passe ?",
+      "genericError": "Code invalide ou expiré. Veuillez réessayer.",
+      "codeRequired": "Le code est requis",
+      "codeTooShort": "Le code doit contenir au moins 4 caractères",
+      "passwordRequired": "Le mot de passe est requis",
+      "passwordTooShort": "Le mot de passe doit contenir au moins 6 caractères"
+    },
+    "layout": {
+      "rights": "Tous droits réservés.",
+      "home": "Retour à l’accueil",
+      "help": "Un souci pour vous connecter ?",
+      "helpCta": "Écrivez-nous sur WhatsApp",
+      "terms": "Conditions d’utilisation",
+      "privacy": "Confidentialité"
+    }
+  },
+  "search": {
+    "placeholder": "Rechercher un service ou un prestataire...",
+    "nearMe": "Autour de moi",
+    "locate": "Localiser",
+    "filters": "Filtres",
+    "category": "Catégorie",
+    "all": "Toutes",
+    "minRating": "Note minimum",
+    "stars4": "4+ étoiles",
+    "stars3": "3+ étoiles",
+    "stars2": "2+ étoiles",
+    "sort": "Tri",
+    "sortProximity": "Proximité",
+    "sortRating": "Meilleures notes",
+    "sortPrice": "Prix croissant",
+    "sortReviews": "Plus d'avis",
+    "radius": "Rayon ({km} km)",
+    "available": "Disponible",
+    "online": "En ligne",
+    "clearFilters": "Effacer les filtres",
+    "searching": "Recherche en cours...",
+    "resultsCount": "{count, plural, =0 {aucun prestataire trouvé} one {prestataire trouvé} other {prestataires trouvés}}",
+    "noResults": "Aucun prestataire trouvé",
+    "noResultsHint": "Essayez de modifier vos critères de recherche",
+    "card": {
+      "reviews": "{count, plural, one {# avis} other {# avis}}",
+      "new": "Nouveau",
+      "online": "En ligne",
+      "available": "Disponible",
+      "from": "À partir de",
+      "verified": "Profil vérifié"
+    }
+  },
+  "provider": {
+    "back": "Retour",
+    "notFound": "Prestataire non trouvé",
+    "about": "À propos",
+    "availability": "Disponibilités",
+    "reviews": "Avis",
+    "leaveReview": "Laisser un avis",
+    "reviewPlaceholder": "Partagez votre expérience...",
+    "publishReview": "Publier mon avis",
+    "noReviews": "Aucun avis pour le moment",
+    "bookNow": "Réserver maintenant",
+    "contact": "Contacter",
+    "call": "Appeler",
+    "verifiedIdentity": "Identité vérifiée",
+    "verifiedProfile": "Profil certifié",
+    "qualityService": "Service de qualité",
+    "fastResponse": "Réponse rapide",
+    "respondsWithin": "Répond en moins de 1h",
+    "booking": {
+      "title": "Réserver",
+      "service": "Service demandé *",
+      "servicePlaceholder": "Ex : Réparation robinet",
+      "description": "Description",
+      "descriptionPlaceholder": "Décrivez le travail souhaité...",
+      "date": "Date *",
+      "time": "Heure *",
+      "address": "Adresse",
+      "addressPlaceholder": "Lieu d'intervention",
+      "amount": "Montant (XAF) *",
+      "submit": "Réserver et payer"
+    },
+    "profile": {
+      "backToSearch": "Retour aux résultats",
+      "inCategory": "{category} à {city}",
+      "reviewsCount": "{count, plural, =0 {Aucun avis} one {# avis} other {# avis}}",
+      "online": "En ligne",
+      "available": "Disponible",
+      "unavailable": "Indisponible pour le moment",
+      "away": "à {km} de vous",
+      "from": "À partir de",
+      "priceNote": "Prix de départ. Le prix final se fixe avec le prestataire avant l’intervention.",
+      "book": "Demander une intervention",
+      "message": "Écrire",
+      "save": "Enregistrer",
+      "saved": "Enregistré",
+      "share": "Partager",
+      "copied": "Lien copié",
+      "escrowTitle": "Votre argent est protégé",
+      "escrowSteps": [
+        "Vous payez une fois la demande acceptée.",
+        "Ouvra garde l’argent pendant l’intervention.",
+        "Le prestataire est payé quand vous lui donnez votre code."
+      ],
+      "facts": {
+        "rating": "note moyenne",
+        "reviews": "avis clients",
+        "price": "prix de départ"
+      },
+      "work": "Réalisations",
+      "workEmpty": "Pas encore de photos de chantier.",
+      "about": "Présentation",
+      "hours": "Disponibilités",
+      "zone": "Zone d’intervention",
+      "zoneText": "{city} et alentours",
+      "reviewsTitle": "Ce qu’en disent les clients",
+      "reviewsEmpty": "Pas encore d’avis. Ils arrivent après une prestation payée sur Ouvra.",
+      "reviewRule": "Seuls les clients ayant terminé une prestation avec ce prestataire peuvent laisser un avis.",
+      "leaveReview": "Laisser un avis",
+      "showAll": "Voir les {count} avis",
+      "showLess": "Voir moins",
+      "photoOf": "Photo {n} sur {total}",
+      "close": "Fermer",
+      "prev": "Photo précédente",
+      "next": "Photo suivante",
+      "loginToBook": "Connectez-vous pour faire une demande",
+      "ownProfile": "C’est votre profil public, tel que les clients le voient.",
+      "stars": "{count} étoiles"
+    },
+    "request": {
+      "title": "Demander une intervention",
+      "subtitle": "{name} reçoit votre demande et l’accepte ou la refuse.",
+      "what": "De quoi avez-vous besoin ?",
+      "whatPlaceholder": "Ex : fuite sous l’évier",
+      "details": "Détails",
+      "detailsOptional": "facultatif",
+      "detailsPlaceholder": "Depuis quand, ce que vous avez déjà essayé…",
+      "when": "Quand ?",
+      "today": "Aujourd’hui",
+      "tomorrow": "Demain",
+      "otherDay": "Autre jour",
+      "time": "Heure",
+      "where": "Où ?",
+      "wherePlaceholder": "Point de repère, ex : derrière la pharmacie du marché",
+      "budget": "Budget proposé",
+      "budgetHint": "À partir de {price} chez ce prestataire.",
+      "next": "Et ensuite ?",
+      "nextSteps": [
+        "Le prestataire accepte votre demande.",
+        "Vous payez par Mobile Money : l’argent reste chez Ouvra.",
+        "À la fin du travail, vous donnez votre code et il est versé."
+      ],
+      "submit": "Envoyer la demande",
+      "sending": "Envoi…",
+      "successTitle": "Demande envoyée",
+      "successBody": "{name} va vous répondre. Vous serez prévenu dès que la demande est acceptée, puis vous pourrez payer.",
+      "seeBookings": "Voir mes réservations",
+      "error": "La demande n’a pas pu être envoyée. Réessayez.",
+      "required": "Indiquez ce dont vous avez besoin, le jour et l’heure.",
+      "pastTime": "Choisissez une heure à venir."
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "client": {
+        "home": "Accueil",
+        "requests": "Mes demandes",
+        "urgent": "Demande urgente",
+        "bookings": "Réservations",
+        "history": "Historique",
+        "messages": "Messages",
+        "favorites": "Favoris",
+        "notifications": "Notifications",
+        "profile": "Profil",
+        "settings": "Paramètres"
+      },
+      "provider": {
+        "dashboard": "Tableau de bord",
+        "requests": "Demandes près de moi",
+        "quotes": "Mes devis",
+        "bookings": "Réservations",
+        "services": "Services",
+        "wallet": "Portefeuille",
+        "subscription": "Abonnement",
+        "messages": "Messages",
+        "reviews": "Avis",
+        "stats": "Statistiques",
+        "settings": "Paramètres"
+      },
+      "admin": {
+        "dashboard": "Dashboard",
+        "users": "Utilisateurs",
+        "bookings": "Réservations",
+        "categories": "Catégories",
+        "payments": "Paiements",
+        "subscriptions": "Abonnements",
+        "settings": "Paramètres"
+      },
+      "becomeProvider": "Devenir prestataire",
+      "earnMoney": "Générez des revenus",
+      "collapse": "Réduire"
+    },
+    "header": {
+      "search": "Rechercher...",
+      "myProfile": "Mon profil",
+      "settings": "Paramètres",
+      "logout": "Se déconnecter",
+      "newNotification": "Nouvelle notification",
+      "newNotificationBody": "Vous avez reçu une nouvelle notification."
+    },
+    "breadcrumb": {
+      "dashboard": "Tableau de bord",
+      "client": "Client",
+      "provider": "Prestataire",
+      "admin": "Admin",
+      "bookings": "Réservations",
+      "messages": "Messages",
+      "favorites": "Favoris",
+      "notifications": "Notifications",
+      "profile": "Profil",
+      "services": "Services",
+      "calendar": "Calendrier",
+      "payments": "Paiements",
+      "stats": "Statistiques",
+      "reviews": "Avis",
+      "settings": "Paramètres",
+      "users": "Utilisateurs",
+      "categories": "Catégories",
+      "subscriptions": "Abonnements",
+      "wallet": "Portefeuille",
+      "subscription": "Abonnement",
+      "history": "Historique",
+      "urgent": "Demande urgente",
+      "become-provider": "Devenir prestataire",
+      "detail": "Suivi",
+      "requests": "Demandes",
+      "quotes": "Mes devis",
+      "new": "Nouvelle demande"
+    },
+    "greeting": {
+      "morning": "Bonjour",
+      "afternoon": "Bon après-midi",
+      "evening": "Bonsoir"
+    }
+  },
+  "client": {
+    "home": {
+      "greetingMorning": "Bonjour",
+      "greetingAfternoon": "Bon après-midi",
+      "greetingEvening": "Bonsoir",
+      "fallbackUser": "Utilisateur",
+      "subtitle": "Vos réservations, messages et favoris.",
+      "searchCta": "Rechercher",
+      "activeBookings": "Réservations actives",
+      "favorites": "Favoris",
+      "unreadMessages": "Messages non lus",
+      "becomeProviderTitle": "Devenez prestataire Ouvra",
+      "becomeProviderSubtitle": "Proposez vos services, fixez vos tarifs et générez des revenus dès aujourd'hui.",
+      "start": "Commencer",
+      "new": "Nouveau",
+      "quickActions": "Actions rapides",
+      "actionUrgent": "Demande urgente",
+      "actionUrgentDesc": "Trouvez un prestataire disponible dans l’heure",
+      "actionSearch": "Rechercher un prestataire",
+      "actionSearchDesc": "Par métier, quartier ou nom",
+      "actionMessages": "Mes messages",
+      "actionMessagesDesc": "Consulter vos conversations",
+      "actionFavorites": "Mes favoris",
+      "actionFavoritesDesc": "Vos prestataires préférés",
+      "recentActivity": "Activité récente",
+      "welcomeActivity": "Bienvenue sur Ouvra ! Explorez nos prestataires.",
+      "now": "Maintenant",
+      "emptyActivity": "Votre activité apparaîtra ici",
+      "recommendedProviders": "Prestataires recommandés",
+      "recommendedSubtitle": "Les mieux notés près de chez vous",
+      "viewAll": "Voir tout",
+      "noProviders": "Aucun prestataire disponible pour le moment",
+      "exploreProviders": "Explorer les prestataires",
+      "recentBookings": "Réservations récentes",
+      "noBookings": "Aucune réservation pour le moment",
+      "showProblemTitle": "Montrez le problème, recevez des prix",
+      "showProblemDesc": "Une photo ou une note vocale suffit. Les prestataires du quartier vous envoient jusqu’à 5 devis, sans connaître votre numéro.",
+      "showProblemCta": "Montrer mon problème"
+    },
+    "bookings": {
+      "title": "Mes réservations",
+      "noBookings": "Aucune réservation",
+      "cancel": "Annuler",
+      "pay": "Payer",
+      "review": "Laisser un avis",
+      "details": "Détails"
+    },
+    "favorites": {
+      "title": "Mes favoris",
+      "noFavorites": "Aucun favori",
+      "noFavoritesHint": "Ajoutez des prestataires à vos favoris pour les retrouver ici."
+    },
+    "notifications": {
+      "title": "Notifications",
+      "markAllRead": "Tout marquer comme lu",
+      "noNotifications": "Aucune notification"
+    },
+    "profile": {
+      "title": "Mon profil",
+      "personalInfo": "Informations personnelles",
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "email": "Email",
+      "phone": "Téléphone",
+      "city": "Ville",
+      "avatar": "Photo de profil",
+      "changeAvatar": "Changer la photo",
+      "save": "Enregistrer les modifications",
+      "saved": "Profil mis à jour"
+    },
+    "urgent": {
+      "title": "Demande urgente",
+      "subtitle": "Trouvez un prestataire disponible immédiatement",
+      "describe": "Décrivez votre besoin",
+      "submit": "Envoyer la demande",
+      "availableNow": "Disponibles maintenant"
+    },
+    "history": {
+      "title": "Historique",
+      "noHistory": "Aucun historique"
+    },
+    "becomeProvider": {
+      "title": "Devenez prestataire Ouvra",
+      "subtitle": "Proposez vos services et générez des revenus",
+      "category": "Catégorie de service",
+      "description": "Description de votre activité",
+      "hourlyRate": "Tarif horaire",
+      "city": "Ville",
+      "submit": "Devenir prestataire",
+      "success": "Votre demande a été envoyée"
+    }
+  },
+  "providerDash": {
+    "home": {
+      "subtitle": "Voici un aperçu de votre activité",
+      "contacts": "Contacts",
+      "bookings": "Réservations",
+      "revenue": "Revenus",
+      "rating": "Note moyenne",
+      "recentBookings": "Réservations récentes",
+      "noBookings": "Aucune réservation"
+    },
+    "bookings": {
+      "title": "Réservations",
+      "accept": "Accepter",
+      "reject": "Refuser",
+      "complete": "Terminer",
+      "noBookings": "Aucune réservation"
+    },
+    "services": {
+      "title": "Mes services",
+      "addService": "Ajouter un service",
+      "editService": "Modifier le service",
+      "name": "Nom du service",
+      "description": "Description",
+      "price": "Prix",
+      "noServices": "Aucun service"
+    },
+    "wallet": {
+      "title": "Portefeuille",
+      "balance": "Solde disponible",
+      "withdraw": "Retirer",
+      "transactions": "Transactions",
+      "noTransactions": "Aucune transaction"
+    },
+    "subscription": {
+      "title": "Abonnement",
+      "currentPlan": "Formule actuelle",
+      "upgrade": "Changer de formule",
+      "expiresOn": "Expire le",
+      "renew": "Renouveler"
+    },
+    "reviews": {
+      "title": "Avis clients",
+      "averageRating": "Note moyenne",
+      "noReviews": "Aucun avis"
+    },
+    "stats": {
+      "title": "Statistiques",
+      "revenue": "Revenus",
+      "bookings": "Réservations",
+      "views": "Vues du profil",
+      "conversionRate": "Taux de conversion"
+    }
+  },
+  "admin": {
+    "dashboard": {
+      "title": "Vue d’ensemble",
+      "subtitle": "L’activité de la plateforme, mise à jour chaque minute.",
+      "loadError": "Impossible de charger les statistiques",
+      "users": "Utilisateurs",
+      "usersSub": "{clients} clients, {providers} prestataires",
+      "bookings": "Réservations",
+      "bookingsSub": "{completed} terminées, {pending} en attente",
+      "commission": "Commission plateforme",
+      "commissionSub": "sur {revenue} de CA total",
+      "activeSubs": "Abonnements actifs",
+      "activeSubsSub": "{suspended} utilisateurs suspendus",
+      "monthlyRevenue": "Revenus mensuels",
+      "monthlyRevenueSub": "Chiffre d'affaires et commission",
+      "commissionLabel": "Commission",
+      "noRevenueData": "Aucune donnée de revenu",
+      "bookingsChart": "Réservations",
+      "noBookings": "Aucune réservation",
+      "topCategories": "Top catégories",
+      "noData": "Aucune donnée",
+      "revenueBreakdown": "Répartition des revenus",
+      "commissionShare": "Commission (10%)",
+      "providersShare": "Prestataires (90%)",
+      "noRevenue": "Aucun revenu enregistré",
+      "statusPending": "En attente",
+      "statusAccepted": "Acceptées",
+      "statusInProgress": "En cours",
+      "statusCompleted": "Terminées",
+      "statusCancelled": "Annulées",
+      "toDo": "À traiter",
+      "disputesOpen": "{count, plural, =0 {Aucun litige ouvert} one {# litige ouvert} other {# litiges ouverts}}",
+      "disputesHint": "Paiements bloqués en attente de votre décision",
+      "pendingOpen": "{count, plural, =0 {Aucune demande en attente} one {# demande sans réponse} other {# demandes sans réponse}}",
+      "pendingHint": "Réservations que le prestataire n’a pas encore acceptées",
+      "suspendedOpen": "{count, plural, =0 {Aucun compte suspendu} one {# compte suspendu} other {# comptes suspendus}}",
+      "suspendedHint": "Comptes bloqués par l’équipe",
+      "open": "Ouvrir",
+      "revenueLabel": "Montant payé",
+      "usersFig": "utilisateurs",
+      "bookingsFig": "réservations",
+      "commissionFig": "de commission encaissée",
+      "subsFig": "abonnements actifs"
+    },
+    "usersPage": {
+      "title": "Utilisateurs",
+      "searchPlaceholder": "Nom, email ou téléphone",
+      "allRoles": "Tous les rôles",
+      "clients": "Clients",
+      "providers": "Prestataires",
+      "admins": "Admins",
+      "allStatuses": "Tous les statuts",
+      "suspendedOnly": "Suspendus",
+      "empty": "Aucun utilisateur trouvé",
+      "colUser": "Utilisateur",
+      "colRole": "Rôle",
+      "colCity": "Ville",
+      "colStatus": "Statut",
+      "colSignup": "Inscription",
+      "colActions": "Actions",
+      "suspended": "Suspendu",
+      "active": "Actif",
+      "roleClient": "Client",
+      "roleProvider": "Prestataire",
+      "roleAdmin": "Admin",
+      "roleAdminLong": "Administrateur",
+      "changeRole": "Changer le rôle",
+      "reactivate": "Réactiver",
+      "suspend": "Suspendre",
+      "delete": "Supprimer",
+      "confirmDelete": "Supprimer cet utilisateur ?",
+      "suspendTitle": "Suspendre l'utilisateur",
+      "suspendReasonPlaceholder": "Raison de la suspension (optionnel)...",
+      "cancel": "Annuler",
+      "confirm": "Confirmer",
+      "subtitle": "{count, plural, =0 {Aucun compte} one {# compte} other {# comptes}} correspondant à vos filtres.",
+      "deleteTitle": "Supprimer ce compte ?",
+      "deleteHint": "Ses réservations, messages et avis seront supprimés. Impossible à annuler.",
+      "suspendHint": "La personne ne pourra plus se connecter. Vous pourrez réactiver le compte plus tard.",
+      "roleHint": "Le changement prend effet à la prochaine connexion.",
+      "actionsFor": "Actions pour {name}",
+      "pageOf": "Page {page} sur {total}",
+      "since": "depuis le {date}",
+      "actionError": "L’action a échoué. Réessayez."
+    },
+    "categories": {
+      "title": "Catégories",
+      "subtitle": "{count, plural, =0 {Aucune catégorie} one {# catégorie} other {# catégories}}, dans l’ordre où les clients les voient.",
+      "nameLabel": "Nom",
+      "new": "Nouvelle catégorie",
+      "searchPlaceholder": "Rechercher une catégorie...",
+      "empty": "Aucune catégorie trouvée",
+      "confirmDelete": "Supprimer « {label} » ?",
+      "modalCreate": "Nouvelle catégorie",
+      "modalEdit": "Modifier la catégorie",
+      "idPlaceholder": "plomberie, electricite...",
+      "labelPlaceholder": "Plomberie",
+      "iconLabel": "Icône",
+      "iconSelect": "Sélectionner une icône",
+      "order": "Ordre d'affichage",
+      "cancel": "Annuler",
+      "create": "Créer",
+      "save": "Enregistrer",
+      "idLabel": "Identifiant",
+      "idHint": "Lettres minuscules, chiffres et tirets. Ne change plus après la création.",
+      "deleteHint": "Les prestataires de cette catégorie devront en choisir une autre.",
+      "delete": "Supprimer",
+      "edit": "Modifier",
+      "actionError": "L’action a échoué. Réessayez."
+    },
+    "bookings": {
+      "title": "Réservations",
+      "subtitle": "{count, plural, =0 {Aucune réservation} one {# réservation} other {# réservations}} dans cette vue.",
+      "all": "Toutes",
+      "empty": "Aucune réservation trouvée",
+      "colService": "Service",
+      "colClient": "Client",
+      "colProvider": "Prestataire",
+      "colPrice": "Prix",
+      "colStatus": "Statut",
+      "colDate": "Date",
+      "colActions": "Actions",
+      "urgent": "Urgent",
+      "cancel": "Annuler la réservation",
+      "cancelTitle": "Annuler la réservation",
+      "cancelReasonPlaceholder": "Raison de l'annulation (optionnel)...",
+      "back": "Retour",
+      "confirmCancel": "Annuler la réservation",
+      "statusPending": "En attente",
+      "statusAccepted": "Acceptée",
+      "statusInProgress": "En cours",
+      "statusCompleted": "Terminée",
+      "statusCancelled": "Annulée",
+      "statusRejected": "Refusée",
+      "client": "Client",
+      "provider": "Prestataire",
+      "service": "Service",
+      "forceCancel": "Annuler de force",
+      "cancelReason": "Motif d'annulation",
+      "noBookings": "Aucune réservation",
+      "colPayment": "Paiement",
+      "escrowNONE": "Non payé",
+      "escrowHELD": "Bloqué",
+      "escrowRELEASED": "Versé",
+      "escrowREFUNDED": "Remboursé",
+      "escrowDISPUTED": "Litige",
+      "refundNote": "{amount} sont bloqués : ils seront remboursés au client.",
+      "noRefund": "Aucun paiement n’a encore été fait.",
+      "actionsFor": "Annuler {title}",
+      "pageOf": "Page {page} sur {total}",
+      "actionError": "L’annulation a échoué. Réessayez.",
+      "allBookings": "Toutes les réservations"
+    },
+    "payments": {
+      "title": "Paiements",
+      "subtitle": "Tout ce que les clients ont payé, et la part qui revient à Ouvra.",
+      "totalRevenue": "Revenus totaux",
+      "commission": "Commission (10%)",
+      "providerPayouts": "Reversé prestataires",
+      "completedPayments": "Paiements complétés",
+      "revenueBreakdown": "Répartition des revenus",
+      "commissionLine": "Commission :",
+      "providersLine": "Prestataires :",
+      "allStatuses": "Tous les statuts",
+      "filterCompleted": "Terminés",
+      "filterPending": "En attente",
+      "filterProcessing": "En cours",
+      "filterFailed": "Échoués",
+      "filterRefunded": "Remboursés",
+      "empty": "Aucun paiement trouvé",
+      "colRef": "Réf.",
+      "colAmount": "Montant",
+      "colCommission": "Commission",
+      "colMethod": "Méthode",
+      "colStatus": "Statut",
+      "colDate": "Date",
+      "methodCard": "Carte bancaire",
+      "statusCompleted": "Terminé",
+      "statusPending": "En attente",
+      "statusProcessing": "En cours",
+      "statusFailed": "Échoué",
+      "statusRefunded": "Remboursé",
+      "colProvider": "Prestataire",
+      "pageOf": "Page {page} sur {total}"
+    },
+    "subscriptions": {
+      "title": "Abonnements",
+      "subtitle": "Les formules proposées aux prestataires et les abonnements en cours.",
+      "plansTitle": "Plans d'abonnement",
+      "days": "{count} jours",
+      "maxServices": "{count, plural, one {# service max} other {# services max}}",
+      "boost": "Boost ×{factor}",
+      "verifiedBadge": "Badge vérifié",
+      "prioritySupport": "Support prioritaire",
+      "providerSubs": "Abonnements des prestataires",
+      "empty": "Aucun abonnement",
+      "colPlan": "Plan",
+      "colStart": "Début",
+      "colExpiry": "Expiration",
+      "colRenewal": "Renouvellement",
+      "colStatus": "Statut",
+      "auto": "Auto",
+      "manual": "Manuel",
+      "editPlan": "Modifier le plan",
+      "priceLabel": "Prix (XAF)",
+      "durationLabel": "Durée (jours)",
+      "maxServicesLabel": "Services max",
+      "boostLabel": "Boost",
+      "descriptionLabel": "Description",
+      "cancel": "Annuler",
+      "save": "Enregistrer",
+      "statusActive": "Actif",
+      "statusExpired": "Expiré",
+      "statusCancelled": "Annulé",
+      "edit": "Modifier",
+      "nameLabel": "Nom",
+      "pageOf": "Page {page} sur {total}",
+      "actionError": "L’enregistrement a échoué. Réessayez.",
+      "perPeriod": "FCFA pour {count} jours",
+      "unlimited": "Services illimités",
+      "forever": "FCFA, sans limite de durée"
+    }
+  },
+  "settings": {
+    "title": "Paramètres",
+    "subtitle": "Affichage, langue et compte.",
+    "account": "Compte",
+    "accountSubtitle": "Vos coordonnées et votre mot de passe se modifient depuis votre profil.",
+    "fullName": "Nom complet",
+    "email": "Email",
+    "phone": "Téléphone",
+    "city": "Ville",
+    "notifications": "Notifications",
+    "notificationsSubtitle": "Préférences de notification",
+    "notif": {
+      "email": {
+        "label": "Notifications par email",
+        "desc": "Recevez les mises à jour par email"
+      },
+      "push": {
+        "label": "Notifications push",
+        "desc": "Notifications dans le navigateur"
+      },
+      "messages": {
+        "label": "Nouveaux messages",
+        "desc": "Alertes pour les messages reçus"
+      },
+      "reviews": {
+        "label": "Nouveaux avis",
+        "desc": "Alertes quand un avis est publié"
+      },
+      "marketing": {
+        "label": "Communications marketing",
+        "desc": "Offres et actualités Ouvra"
+      }
+    },
+    "appearance": "Apparence",
+    "appearanceSubtitle": "S’applique à cet appareil.",
+    "themeLight": "Clair",
+    "themeDark": "Sombre",
+    "themeSystem": "Système",
+    "language": "Langue",
+    "languageSubtitle": "Langue de l’interface et des notifications.",
+    "dangerZone": "Zone de danger",
+    "dangerZoneSubtitle": "La suppression efface vos réservations, messages et avis. Elle est définitive.",
+    "deleteAccount": "Supprimer mon compte",
+    "deleteAccountWarning": "Cette action est irréversible. Toutes vos données seront supprimées définitivement.",
+    "cancel": "Annuler",
+    "confirmDelete": "Confirmer la suppression",
+    "editProfile": "Modifier mon profil",
+    "security": "Connexion",
+    "securitySubtitle": "Vous pouvez vous connecter avec votre numéro et un code reçu par SMS, ou avec votre mot de passe.",
+    "changePassword": "Changer de mot de passe"
+  },
+  "status": {
+    "booking": {
+      "PENDING": "En attente",
+      "ACCEPTED": "Acceptée",
+      "REJECTED": "Refusée",
+      "IN_PROGRESS": "En cours",
+      "COMPLETED": "Terminée",
+      "CANCELLED": "Annulée"
+    },
+    "payment": {
+      "PENDING": "En attente",
+      "COMPLETED": "Payé",
+      "FAILED": "Échoué",
+      "REFUNDED": "Remboursé"
+    },
+    "subscription": {
+      "ACTIVE": "Actif",
+      "EXPIRED": "Expiré",
+      "CANCELLED": "Annulé"
+    },
+    "role": {
+      "CLIENT": "Client",
+      "PROVIDER": "Prestataire",
+      "ADMIN": "Administrateur"
+    }
+  },
+  "place": {
+    "label": "Quartier ou ville",
+    "placeholder": "Votre quartier : Akwa, Bastos, Makepe…",
+    "useGps": "Utiliser ma position",
+    "myPosition": "Ma position",
+    "near": "Près de {place}",
+    "locating": "Localisation en cours",
+    "clear": "Effacer le lieu",
+    "noMatch": "Quartier inconnu. Essayez le nom de la ville.",
+    "gpsDenied": "Position refusée. Tapez plutôt votre quartier.",
+    "gpsFailed": "Position introuvable. Tapez plutôt votre quartier.",
+    "gpsUnavailable": "Ce téléphone ne donne pas sa position. Tapez votre quartier.",
+    "within": "À moins de {km} km de {place}"
+  }
+}

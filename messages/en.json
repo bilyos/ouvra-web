@@ -1,0 +1,1273 @@
+{
+  "metadata": {
+    "title": "Ouvra, verified tradespeople in Cameroon",
+    "description": "Plumbers, electricians, hairdressers, carpenters and 50+ trades. Verified providers near you, paid with Mobile Money.",
+    "keywords": "services,providers,Cameroon,marketplace,plumber,electrician,hairdresser"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "close": "Close",
+    "confirm": "Confirm",
+    "search": "Search",
+    "loading": "Loading...",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "seeAll": "See all",
+    "seeMore": "See more",
+    "noResults": "No results",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "required": "Required",
+    "optional": "Optional",
+    "yes": "Yes",
+    "no": "No",
+    "all": "All",
+    "actions": "Actions",
+    "status": "Status",
+    "date": "Date",
+    "amount": "Amount",
+    "total": "Total",
+    "reviews": "reviews",
+    "from": "From",
+    "page": "Page",
+    "of": "of"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Find a pro",
+    "providers": "Providers",
+    "howItWorks": "How it works",
+    "login": "Log in",
+    "register": "Sign up",
+    "dashboard": "Dashboard",
+    "myProfile": "My profile",
+    "settings": "Settings",
+    "logout": "Log out",
+    "toggleTheme": "Toggle theme",
+    "theme": "Theme",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language",
+    "becomeProvider": "Become a provider"
+  },
+  "footer": {
+    "description": "Verified tradespeople and freelancers in your neighbourhood, all over Cameroon.",
+    "location": "Douala, Cameroon",
+    "sections": {
+      "services": "Services",
+      "company": "Company",
+      "support": "Support",
+      "legal": "Legal"
+    },
+    "links": {
+      "plumbing": "Plumbing",
+      "electricity": "Electrical",
+      "cleaning": "Cleaning",
+      "hairdressing": "Hairdressing",
+      "carpentry": "Carpentry",
+      "allServices": "All services",
+      "howItWorks": "How it works",
+      "testimonials": "Testimonials",
+      "faq": "FAQ",
+      "helpCenter": "Help center",
+      "becomeProvider": "Become a provider",
+      "contact": "Contact us",
+      "terms": "Terms of use",
+      "privacy": "Privacy",
+      "legalNotice": "Legal notice"
+    },
+    "newsletter": {
+      "title": "Stay informed",
+      "subtitle": "Get our news and exclusive offers.",
+      "placeholder": "your@email.com",
+      "subscribe": "Subscribe"
+    },
+    "rights": "All rights reserved.",
+    "madeWith": "Made with",
+    "inCameroon": "in Cameroon",
+    "contact": {
+      "phone": "Phone",
+      "email": "Email",
+      "office": "Office"
+    }
+  },
+  "landing": {
+    "hero": {
+      "title": "Find a verified tradesperson near you",
+      "sentenceStart": "I need",
+      "sentenceIn": "in",
+      "tradeLabel": "Trade",
+      "cityLabel": "City",
+      "search": "Search",
+      "payment": "Pay with Orange Money, MTN MoMo or card.",
+      "popular": "Frequent searches",
+      "popularItems": [
+        "Plumber in Akwa",
+        "Hairdresser in Bastos",
+        "AC technician in Bonamoussadi",
+        "Tutor in Biyem-Assi"
+      ],
+      "panelTitle": "Available now",
+      "panelCity": "Douala and Yaoundé",
+      "respondsIn": "replies in {minutes} min",
+      "seeAll": "See every available provider",
+      "trades": {
+        "plumbing": "a plumber",
+        "electricity": "an electrician",
+        "cleaning": "a cleaner",
+        "beauty": "a hairdresser",
+        "carpentry": "a carpenter",
+        "painting": "a painter",
+        "airConditioning": "an AC technician",
+        "it": "an IT technician",
+        "tutoring": "a tutor",
+        "moving": "movers",
+        "photography": "a photographer",
+        "catering": "a caterer"
+      },
+      "live": {
+        "label": "Live demo",
+        "statusSending": "Request sent to providers in {city}",
+        "statusAnswers": "{count, plural, one {# reply} other {# replies}} in {seconds} seconds",
+        "statusChosen": "{name} is on the way, arriving in {minutes} min",
+        "yourRequest": "Your request",
+        "at": "in {area}",
+        "away": "{km} km away",
+        "respondsIn": "replies in {minutes} min",
+        "from": "from {price}",
+        "choose": "Choose",
+        "chosen": "Chosen",
+        "replay": "Replay the demo",
+        "you": "You",
+        "srSummary": "Example: a “{request}” request in {area} gets three replies from nearby providers within seconds.",
+        "requests": {
+          "plumbing": "Leak under the sink",
+          "electricity": "Breaker trips every evening",
+          "airConditioning": "AC no longer cools",
+          "beauty": "Braids for Saturday morning",
+          "cleaning": "Deep clean of a flat",
+          "carpentry": "Bedroom door to repair",
+          "painting": "Living room to repaint",
+          "it": "Computer won’t start",
+          "tutoring": "Year 9 maths, two evenings a week",
+          "moving": "Moving out of a studio",
+          "photography": "Birthday photos on Sunday",
+          "catering": "Meal for 40 guests"
+        }
+      },
+      "hint": "Tap a highlighted word to change it: the demo follows."
+    },
+    "categories": {
+      "title": "A trade for every job",
+      "subtitle": "More than 50 categories, from urgent repairs to evening lessons.",
+      "viewAll": "See all categories",
+      "pros": "{count} pros",
+      "items": {
+        "plumbing": {
+          "label": "Plumbing",
+          "description": "Leaks, installation, unclogging"
+        },
+        "electricity": {
+          "label": "Electrical",
+          "description": "Repairs, wiring, compliance"
+        },
+        "cleaning": {
+          "label": "Cleaning",
+          "description": "Cleaning, ironing, upkeep"
+        },
+        "beauty": {
+          "label": "Hair and beauty",
+          "description": "Braids, make-up, nails"
+        },
+        "carpentry": {
+          "label": "Carpentry",
+          "description": "Furniture, doors, framing"
+        },
+        "painting": {
+          "label": "Painting",
+          "description": "Interior, exterior, finishing"
+        },
+        "airConditioning": {
+          "label": "Air conditioning",
+          "description": "Installation, gas refill, servicing"
+        },
+        "it": {
+          "label": "IT and phones",
+          "description": "Repairs, networks, phones"
+        },
+        "tutoring": {
+          "label": "Private lessons",
+          "description": "Homework help, languages, music"
+        },
+        "moving": {
+          "label": "Moving",
+          "description": "Transport, packing, assembly"
+        },
+        "photography": {
+          "label": "Photography",
+          "description": "Weddings, portraits, video"
+        },
+        "catering": {
+          "label": "Catering",
+          "description": "Receptions, meals, pastries"
+        }
+      }
+    },
+    "howItWorks": {
+      "title": "How it works",
+      "subtitle": "From search to review, everything happens in one place.",
+      "cta": "Start a search",
+      "steps": {
+        "describe": {
+          "title": "Say what you need",
+          "description": "Pick the trade and your neighbourhood. Add a photo or a couple of lines if the job is specific."
+        },
+        "choose": {
+          "title": "Compare and choose",
+          "description": "Ratings, reviews, starting prices and availability are on every profile. Message the provider before you book."
+        },
+        "enjoy": {
+          "title": "Pay and review",
+          "description": "Pay with Mobile Money or card. Your review helps your neighbours choose next time."
+        }
+      }
+    },
+    "providers": {
+      "title": "Top rated this month",
+      "subtitle": "Ranked by reviews left after a job paid through Ouvra.",
+      "viewAll": "See all providers",
+      "reviews": "{count} reviews",
+      "from": "From",
+      "available": "Available",
+      "scrollLeft": "Previous providers",
+      "scrollRight": "Next providers",
+      "professions": {
+        "plumber": "Plumber",
+        "hairdresser": "Hairdresser",
+        "electrician": "Electrician",
+        "cleaner": "Cleaning and ironing",
+        "carpenter": "Carpenter",
+        "photographer": "Photographer",
+        "acTechnician": "AC technician",
+        "mathTutor": "Maths tutor"
+      }
+    },
+    "trust": {
+      "title": "What we check for you",
+      "subtitle": "A provider only shows up in results once we have checked their ID, their trade and two references.",
+      "items": {
+        "verified": {
+          "title": "ID checked",
+          "description": "ID document and phone number verified by our team."
+        },
+        "reviews": {
+          "title": "Reviews from real clients",
+          "description": "Only a client who paid for a job can leave a rating."
+        },
+        "payment": {
+          "title": "Traceable payments",
+          "description": "Orange Money, MTN MoMo and cards. Every payment gets a receipt."
+        },
+        "messaging": {
+          "title": "Built-in messaging",
+          "description": "Talk to the provider without sharing your number."
+        }
+      },
+      "figures": {
+        "providers": "active providers",
+        "clients": "clients",
+        "rating": "average rating",
+        "regions": "regions covered"
+      }
+    },
+    "testimonials": {
+      "title": "In their words",
+      "items": {
+        "aurelien": {
+          "role": "Client in Douala",
+          "text": "Leak under the sink on a Sunday. A plumber was at my door an hour later, and the quoted price was the price I paid."
+        },
+        "christelle": {
+          "role": "Client in Yaoundé",
+          "text": "The electrician showed up on time, explained what he was doing and left the house clean."
+        },
+        "patrick": {
+          "role": "Painter in Bafoussam",
+          "text": "I used to rely on word of mouth. Today half of my jobs come through Ouvra."
+        }
+      }
+    },
+    "coverage": {
+      "title": "All over Cameroon",
+      "subtitle": "From Maroua to Ebolowa, providers are registered in all ten regions. Hover a region to see the detail.",
+      "capital": "Capital",
+      "providers": "providers",
+      "verifiedProviders": "verified providers nationwide",
+      "mapLabel": "Map of Cameroon’s ten regions, shaded by number of registered providers",
+      "legendHint": "Hover a region to see the detail",
+      "legendLow": "Fewer",
+      "legendHigh": "More"
+    },
+    "faq": {
+      "title": "Frequent questions",
+      "contact": "Another question? Message us on WhatsApp, we reply during the day.",
+      "contactCta": "Message us on WhatsApp",
+      "items": {
+        "how": {
+          "question": "How does Ouvra work?",
+          "answer": "Search for a trade in your city, compare profiles (reviews, prices, availability), then message the provider or book directly. Payment and review happen on the platform afterwards."
+        },
+        "free": {
+          "question": "Is signing up free?",
+          "answer": "Yes, for clients and providers alike. Providers can take a subscription to be featured more, but it is optional."
+        },
+        "verification": {
+          "question": "How are providers verified?",
+          "answer": "Our team checks the ID document, phone number and two job references before a profile goes live. Client reviews take over from there."
+        },
+        "payment": {
+          "question": "Which payment methods are accepted?",
+          "answer": "Orange Money, MTN Mobile Money, Visa and Mastercard. You get a receipt after every payment."
+        },
+        "problem": {
+          "question": "What if something goes wrong with a provider?",
+          "answer": "Report it from the booking page. Support answers 7 days a week and can suspend a profile while the case is reviewed."
+        },
+        "cities": {
+          "question": "Which cities do you cover?",
+          "answer": "Douala and Yaoundé have the most providers. Bafoussam, Bamenda, Garoua, Kribi and the other regional capitals follow, with new sign-ups every week."
+        },
+        "becomeProvider": {
+          "question": "How do I become a provider?",
+          "answer": "Create an account as a “Provider”, describe your work and starting price, then send your documents. Your profile goes live once verified."
+        }
+      }
+    },
+    "cta": {
+      "title": "Are you a tradesperson or freelancer?",
+      "subtitle": "Create your profile for free and get requests from clients in your neighbourhood.",
+      "register": "Create my provider profile",
+      "whatsapp": "Join the WhatsApp group"
+    },
+    "app": {
+      "title": "The app is coming soon",
+      "subtitle": "Search, book, chat and pay from your phone. Early members of the WhatsApp group will hear about the launch first.",
+      "features": [
+        "Notifications when a provider replies",
+        "Providers around you on the map",
+        "Urgent request in one tap",
+        "Orange Money and MTN MoMo payments",
+        "Reviews and receipts always at hand"
+      ],
+      "soon": "Coming soon",
+      "ios": "App Store",
+      "android": "Google Play",
+      "notify": "Get notified on WhatsApp",
+      "pause": "Pause",
+      "play": "Resume",
+      "screens": {
+        "label": "App preview",
+        "home": {
+          "greeting": "Hello Aïcha",
+          "ask": "I need",
+          "trade": "an electrician",
+          "city": "in Yaoundé",
+          "search": "Search",
+          "nearby": "Available near you",
+          "tabs": [
+            "Home",
+            "Search",
+            "Messages",
+            "Profile"
+          ]
+        },
+        "profile": {
+          "name": "Paul Kamga",
+          "trade": "Electrician, Bastos",
+          "reviews": "89 reviews",
+          "from": "From",
+          "book": "Book",
+          "message": "Message",
+          "about": "Repairs, wiring and compliance. Same-hour call-outs in Yaoundé."
+        },
+        "pay": {
+          "title": "Payment",
+          "service": "Electrical repair",
+          "total": "Total",
+          "method": "Payment method",
+          "orange": "Orange Money",
+          "mtn": "MTN MoMo",
+          "card": "Bank card",
+          "confirm": "Pay 7,500 FCFA",
+          "done": "Payment confirmed"
+        }
+      },
+      "soonOn": "Coming soon on"
+    },
+    "prices": {
+      "title": "What does it really cost?",
+      "subtitle": "No more haggling in the dark. Pick a service to see the starting prices listed by registered providers.",
+      "service": "Service",
+      "city": "City",
+      "allCities": "All of Cameroon",
+      "from": "From",
+      "common": "Median price",
+      "upTo": "Up to",
+      "basedOn": "{count, plural, one {Based on # provider} other {Based on # providers}}",
+      "fewData": "Few providers for this service so far: the range will get sharper.",
+      "empty": "No provider for this service in this city yet.",
+      "emptyCta": "See other cities",
+      "see": "{count, plural, one {See the provider} other {See the # providers}}",
+      "note": "The final price is agreed with the provider before the job. You then pay by Mobile Money, and the money stays on hold until the work is done.",
+      "scale": "Price scale in FCFA",
+      "dot": "{name}, {price}",
+      "loading": "Loading prices",
+      "error": "Prices are not available right now.",
+      "same": "{count, plural, one {Listed starting price} other {Same starting price for all #}}"
+    }
+  },
+  "auth": {
+    "or": "or",
+    "google": "Google",
+    "login": {
+      "title": "Welcome back",
+      "subtitle": "Sign in to follow your requests and messages.",
+      "email": "Email address",
+      "emailPlaceholder": "name@example.com",
+      "password": "Password",
+      "passwordPlaceholder": "Your password",
+      "forgotPassword": "Forgot password?",
+      "rememberMe": "Remember me",
+      "submit": "Log in",
+      "submitting": "Signing in...",
+      "loading": "Signing in…",
+      "noAccount": "Don't have an account?",
+      "register": "Create an account",
+      "error": "Incorrect email or password",
+      "emailRequired": "Email address is required",
+      "emailInvalid": "Invalid email address",
+      "passwordRequired": "Password is required",
+      "tabPhone": "Phone",
+      "tabEmail": "Email",
+      "phone": "Phone number",
+      "phoneHint": "Orange or MTN, without 237",
+      "sendCode": "Text me a code",
+      "sending": "Sending…",
+      "codeSentTo": "Code sent to {phone}",
+      "codeSentHint": "If this number has an Ouvra account, you will get a text with 6 digits.",
+      "code": "Code from the text",
+      "verify": "Sign in",
+      "verifying": "Checking…",
+      "resendIn": "Resend the code in {seconds}s",
+      "resend": "Resend the code",
+      "changeNumber": "Use another number",
+      "devCode": "Test mode: no text is sent. Code: {code}",
+      "noAccountPhone": "No account with this number?",
+      "phoneInvalid": "Enter the 9 digits of your number, e.g. 6 90 00 01 01.",
+      "codeInvalid": "The code has 6 digits."
+    },
+    "register": {
+      "title": "Create an account",
+      "subtitle": "Free, in under two minutes.",
+      "roleClient": "I need a pro",
+      "roleProvider": "I offer my services",
+      "stepAccount": "Account",
+      "stepActivity": "Activity",
+      "firstName": "First name",
+      "firstNamePlaceholder": "John",
+      "lastName": "Last name",
+      "lastNamePlaceholder": "Smith",
+      "email": "Email address",
+      "emailPlaceholder": "name@example.com",
+      "phone": "Phone",
+      "phonePlaceholder": "6 90 00 01 01",
+      "gender": "Gender",
+      "genderSelect": "Select",
+      "genderMale": "Male",
+      "genderFemale": "Female",
+      "city": "City",
+      "cityPlaceholder": "Douala",
+      "password": "Password",
+      "passwordPlaceholder": "6 characters minimum",
+      "acceptPrefix": "I accept the",
+      "acceptTerms": "terms of use",
+      "acceptAnd": "and the",
+      "acceptPrivacy": "privacy policy",
+      "continue": "Continue",
+      "submit": "Create my account",
+      "submitting": "Signing up...",
+      "creatingAccount": "Creating your account…",
+      "creatingProvider": "Creating your provider profile…",
+      "category": "Service category",
+      "categorySelect": "Select a category",
+      "activityTitle": "Title of your activity",
+      "activityTitlePlaceholder": "e.g. Professional plumber",
+      "description": "Description",
+      "descriptionPlaceholder": "Describe your services, experience and specialties...",
+      "startingPrice": "Starting price (XAF)",
+      "availability": "Availability",
+      "availabilityPlaceholder": "Mon - Sat, 8am - 6pm",
+      "back": "Back",
+      "submitProvider": "Create my provider account",
+      "creating": "Creating...",
+      "hasAccount": "Already registered?",
+      "login": "Log in",
+      "genericError": "An error occurred during sign-up",
+      "firstNameRequired": "First name is required",
+      "firstNameTooShort": "First name must be at least 2 characters",
+      "lastNameRequired": "Last name is required",
+      "lastNameTooShort": "Last name must be at least 2 characters",
+      "emailRequired": "Email address is required",
+      "emailInvalid": "Invalid email address",
+      "phoneRequired": "Phone number is required",
+      "phoneInvalid": "Invalid Cameroonian number. Example: 6 90 00 01 01",
+      "passwordRequired": "Password is required",
+      "passwordTooShort": "Password must be at least 6 characters",
+      "genderRequired": "Please select a gender",
+      "cityRequired": "City is required",
+      "termsRequired": "You must accept the terms of use",
+      "categoryRequired": "Select a category",
+      "titleRequired": "Title required (min. 3 characters)",
+      "descriptionRequired": "Describe your activity (min. 20 characters)",
+      "priceInvalid": "Invalid starting price",
+      "availabilityRequired": "Enter your availability",
+      "roleLegend": "Account type",
+      "roleClientHint": "Find, book and pay a provider.",
+      "roleProviderHint": "Get requests from nearby clients."
+    },
+    "forgotPassword": {
+      "title": "Forgot your password?",
+      "subtitle": "Enter your email address and we'll send you a code to reset your password.",
+      "email": "Email address",
+      "emailPlaceholder": "name@example.com",
+      "submit": "Send code",
+      "submitting": "Sending...",
+      "backToLogin": "Back to login",
+      "successTitle": "Email sent",
+      "successBody": "A reset code has been sent to {email}. Check your inbox.",
+      "enterCode": "Enter the code",
+      "genericError": "An error occurred. Please try again."
+    },
+    "resetPassword": {
+      "title": "Reset your password",
+      "subtitle": "Enter the code you received by email and your new password.",
+      "back": "Back",
+      "email": "Email address",
+      "emailPlaceholder": "name@example.com",
+      "code": "Verification code",
+      "codePlaceholder": "Enter the code you received",
+      "password": "New password",
+      "passwordPlaceholder": "6 characters minimum",
+      "submit": "Reset password",
+      "submitting": "Resetting...",
+      "successTitle": "Password reset",
+      "successBody": "Your password has been reset successfully. You can now log in with your new password.",
+      "goToLogin": "Log in",
+      "rememberPassword": "Remember your password?",
+      "genericError": "Invalid or expired code. Please try again.",
+      "codeRequired": "The code is required",
+      "codeTooShort": "The code must be at least 4 characters",
+      "passwordRequired": "Password is required",
+      "passwordTooShort": "Password must be at least 6 characters"
+    },
+    "layout": {
+      "rights": "All rights reserved.",
+      "home": "Back to home",
+      "help": "Trouble signing in?",
+      "helpCta": "Message us on WhatsApp",
+      "terms": "Terms of use",
+      "privacy": "Privacy"
+    }
+  },
+  "search": {
+    "placeholder": "Search for a service or a provider...",
+    "nearMe": "Near me",
+    "locate": "Locate",
+    "filters": "Filters",
+    "category": "Category",
+    "all": "All",
+    "minRating": "Minimum rating",
+    "stars4": "4+ stars",
+    "stars3": "3+ stars",
+    "stars2": "2+ stars",
+    "sort": "Sort",
+    "sortProximity": "Proximity",
+    "sortRating": "Top rated",
+    "sortPrice": "Price: low to high",
+    "sortReviews": "Most reviews",
+    "radius": "Radius ({km} km)",
+    "available": "Available",
+    "online": "Online",
+    "clearFilters": "Clear filters",
+    "searching": "Searching...",
+    "resultsCount": "{count, plural, =0 {no providers found} one {provider found} other {providers found}}",
+    "noResults": "No providers found",
+    "noResultsHint": "Try adjusting your search criteria",
+    "card": {
+      "reviews": "{count, plural, one {# review} other {# reviews}}",
+      "new": "New",
+      "online": "Online",
+      "available": "Available",
+      "from": "From",
+      "verified": "Verified profile"
+    }
+  },
+  "provider": {
+    "back": "Back",
+    "notFound": "Provider not found",
+    "about": "About",
+    "availability": "Availability",
+    "reviews": "Reviews",
+    "leaveReview": "Leave a review",
+    "reviewPlaceholder": "Share your experience...",
+    "publishReview": "Publish my review",
+    "noReviews": "No reviews yet",
+    "bookNow": "Book now",
+    "contact": "Contact",
+    "call": "Call",
+    "verifiedIdentity": "Verified identity",
+    "verifiedProfile": "Certified profile",
+    "qualityService": "Quality service",
+    "fastResponse": "Fast response",
+    "respondsWithin": "Responds within 1h",
+    "booking": {
+      "title": "Book",
+      "service": "Service requested *",
+      "servicePlaceholder": "e.g. Faucet repair",
+      "description": "Description",
+      "descriptionPlaceholder": "Describe the work needed...",
+      "date": "Date *",
+      "time": "Time *",
+      "address": "Address",
+      "addressPlaceholder": "Job location",
+      "amount": "Amount (XAF) *",
+      "submit": "Book and pay"
+    },
+    "profile": {
+      "backToSearch": "Back to results",
+      "inCategory": "{category} in {city}",
+      "reviewsCount": "{count, plural, =0 {No reviews} one {# review} other {# reviews}}",
+      "online": "Online",
+      "available": "Available",
+      "unavailable": "Not available right now",
+      "away": "{km} from you",
+      "from": "From",
+      "priceNote": "Starting price. The final price is agreed with the provider before the job.",
+      "book": "Request a job",
+      "message": "Message",
+      "save": "Save",
+      "saved": "Saved",
+      "share": "Share",
+      "copied": "Link copied",
+      "escrowTitle": "Your money is protected",
+      "escrowSteps": [
+        "You pay once the request is accepted.",
+        "Ouvra holds the money during the job.",
+        "The provider is paid when you give them your code."
+      ],
+      "facts": {
+        "rating": "average rating",
+        "reviews": "client reviews",
+        "price": "starting price"
+      },
+      "work": "Past work",
+      "workEmpty": "No job photos yet.",
+      "about": "About",
+      "hours": "Availability",
+      "zone": "Service area",
+      "zoneText": "{city} and surroundings",
+      "reviewsTitle": "What clients say",
+      "reviewsEmpty": "No reviews yet. They come after a job paid through Ouvra.",
+      "reviewRule": "Only clients who completed a job with this provider can leave a review.",
+      "leaveReview": "Leave a review",
+      "showAll": "See all {count} reviews",
+      "showLess": "See less",
+      "photoOf": "Photo {n} of {total}",
+      "close": "Close",
+      "prev": "Previous photo",
+      "next": "Next photo",
+      "loginToBook": "Sign in to send a request",
+      "ownProfile": "This is your public profile, as clients see it.",
+      "stars": "{count} stars"
+    },
+    "request": {
+      "title": "Request a job",
+      "subtitle": "{name} receives your request and accepts or declines it.",
+      "what": "What do you need?",
+      "whatPlaceholder": "E.g. leak under the sink",
+      "details": "Details",
+      "detailsOptional": "optional",
+      "detailsPlaceholder": "Since when, what you have already tried…",
+      "when": "When?",
+      "today": "Today",
+      "tomorrow": "Tomorrow",
+      "otherDay": "Another day",
+      "time": "Time",
+      "where": "Where?",
+      "wherePlaceholder": "Landmark, e.g. behind the market pharmacy",
+      "budget": "Proposed budget",
+      "budgetHint": "From {price} with this provider.",
+      "next": "What happens next?",
+      "nextSteps": [
+        "The provider accepts your request.",
+        "You pay with Mobile Money: Ouvra holds the money.",
+        "When the job is done, you give your code and the money is released."
+      ],
+      "submit": "Send the request",
+      "sending": "Sending…",
+      "successTitle": "Request sent",
+      "successBody": "{name} will reply. You will be notified as soon as the request is accepted, then you can pay.",
+      "seeBookings": "See my bookings",
+      "error": "The request could not be sent. Try again.",
+      "required": "Say what you need, the day and the time.",
+      "pastTime": "Pick a time in the future."
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "client": {
+        "home": "Home",
+        "requests": "My requests",
+        "urgent": "Urgent request",
+        "bookings": "Bookings",
+        "history": "History",
+        "messages": "Messages",
+        "favorites": "Favorites",
+        "notifications": "Notifications",
+        "profile": "Profile",
+        "settings": "Settings"
+      },
+      "provider": {
+        "dashboard": "Dashboard",
+        "requests": "Requests near me",
+        "quotes": "My quotes",
+        "bookings": "Bookings",
+        "services": "Services",
+        "wallet": "Wallet",
+        "subscription": "Subscription",
+        "messages": "Messages",
+        "reviews": "Reviews",
+        "stats": "Statistics",
+        "settings": "Settings"
+      },
+      "admin": {
+        "dashboard": "Dashboard",
+        "users": "Users",
+        "bookings": "Bookings",
+        "categories": "Categories",
+        "payments": "Payments",
+        "subscriptions": "Subscriptions",
+        "settings": "Settings"
+      },
+      "becomeProvider": "Become a provider",
+      "earnMoney": "Start earning",
+      "collapse": "Collapse"
+    },
+    "header": {
+      "search": "Search...",
+      "myProfile": "My profile",
+      "settings": "Settings",
+      "logout": "Log out",
+      "newNotification": "New notification",
+      "newNotificationBody": "You have received a new notification."
+    },
+    "breadcrumb": {
+      "dashboard": "Dashboard",
+      "client": "Client",
+      "provider": "Provider",
+      "admin": "Admin",
+      "bookings": "Bookings",
+      "messages": "Messages",
+      "favorites": "Favorites",
+      "notifications": "Notifications",
+      "profile": "Profile",
+      "services": "Services",
+      "calendar": "Calendar",
+      "payments": "Payments",
+      "stats": "Statistics",
+      "reviews": "Reviews",
+      "settings": "Settings",
+      "users": "Users",
+      "categories": "Categories",
+      "subscriptions": "Subscriptions",
+      "wallet": "Wallet",
+      "subscription": "Subscription",
+      "history": "History",
+      "urgent": "Urgent request",
+      "become-provider": "Become a provider",
+      "detail": "Tracking",
+      "requests": "Requests",
+      "quotes": "My quotes",
+      "new": "New request"
+    },
+    "greeting": {
+      "morning": "Good morning",
+      "afternoon": "Good afternoon",
+      "evening": "Good evening"
+    }
+  },
+  "client": {
+    "home": {
+      "greetingMorning": "Good morning",
+      "greetingAfternoon": "Good afternoon",
+      "greetingEvening": "Good evening",
+      "fallbackUser": "User",
+      "subtitle": "Your bookings, messages and favourites.",
+      "searchCta": "Search",
+      "activeBookings": "Active bookings",
+      "favorites": "Favorites",
+      "unreadMessages": "Unread messages",
+      "becomeProviderTitle": "Become an Ouvra provider",
+      "becomeProviderSubtitle": "Offer your services, set your rates and start earning today.",
+      "start": "Get started",
+      "new": "New",
+      "quickActions": "Quick actions",
+      "actionUrgent": "Urgent request",
+      "actionUrgentDesc": "Find a provider available within the hour",
+      "actionSearch": "Find a provider",
+      "actionSearchDesc": "By trade, neighbourhood or name",
+      "actionMessages": "My messages",
+      "actionMessagesDesc": "View your conversations",
+      "actionFavorites": "My favorites",
+      "actionFavoritesDesc": "Your preferred providers",
+      "recentActivity": "Recent activity",
+      "welcomeActivity": "Welcome to Ouvra! Explore our providers.",
+      "now": "Now",
+      "emptyActivity": "Your activity will appear here",
+      "recommendedProviders": "Recommended providers",
+      "recommendedSubtitle": "Top rated near you",
+      "viewAll": "View all",
+      "noProviders": "No providers available right now",
+      "exploreProviders": "Explore providers",
+      "recentBookings": "Recent bookings",
+      "noBookings": "No bookings yet",
+      "showProblemTitle": "Show the problem, get prices",
+      "showProblemDesc": "A photo or a voice note is enough. Providers nearby send you up to 5 quotes without seeing your number.",
+      "showProblemCta": "Show my problem"
+    },
+    "bookings": {
+      "title": "My bookings",
+      "noBookings": "No bookings",
+      "cancel": "Cancel",
+      "pay": "Pay",
+      "review": "Leave a review",
+      "details": "Details"
+    },
+    "favorites": {
+      "title": "My favorites",
+      "noFavorites": "No favorites",
+      "noFavoritesHint": "Add providers to your favorites to find them here."
+    },
+    "notifications": {
+      "title": "Notifications",
+      "markAllRead": "Mark all as read",
+      "noNotifications": "No notifications"
+    },
+    "profile": {
+      "title": "My profile",
+      "personalInfo": "Personal information",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "phone": "Phone",
+      "city": "City",
+      "avatar": "Profile picture",
+      "changeAvatar": "Change picture",
+      "save": "Save changes",
+      "saved": "Profile updated"
+    },
+    "urgent": {
+      "title": "Urgent request",
+      "subtitle": "Find a provider available right now",
+      "describe": "Describe your need",
+      "submit": "Send request",
+      "availableNow": "Available now"
+    },
+    "history": {
+      "title": "History",
+      "noHistory": "No history"
+    },
+    "becomeProvider": {
+      "title": "Become an Ouvra provider",
+      "subtitle": "Offer your services and start earning",
+      "category": "Service category",
+      "description": "Describe your activity",
+      "hourlyRate": "Hourly rate",
+      "city": "City",
+      "submit": "Become a provider",
+      "success": "Your request has been sent"
+    }
+  },
+  "providerDash": {
+    "home": {
+      "subtitle": "Here's an overview of your activity",
+      "contacts": "Contacts",
+      "bookings": "Bookings",
+      "revenue": "Revenue",
+      "rating": "Average rating",
+      "recentBookings": "Recent bookings",
+      "noBookings": "No bookings"
+    },
+    "bookings": {
+      "title": "Bookings",
+      "accept": "Accept",
+      "reject": "Decline",
+      "complete": "Complete",
+      "noBookings": "No bookings"
+    },
+    "services": {
+      "title": "My services",
+      "addService": "Add a service",
+      "editService": "Edit service",
+      "name": "Service name",
+      "description": "Description",
+      "price": "Price",
+      "noServices": "No services"
+    },
+    "wallet": {
+      "title": "Wallet",
+      "balance": "Available balance",
+      "withdraw": "Withdraw",
+      "transactions": "Transactions",
+      "noTransactions": "No transactions"
+    },
+    "subscription": {
+      "title": "Subscription",
+      "currentPlan": "Current plan",
+      "upgrade": "Change plan",
+      "expiresOn": "Expires on",
+      "renew": "Renew"
+    },
+    "reviews": {
+      "title": "Client reviews",
+      "averageRating": "Average rating",
+      "noReviews": "No reviews"
+    },
+    "stats": {
+      "title": "Statistics",
+      "revenue": "Revenue",
+      "bookings": "Bookings",
+      "views": "Profile views",
+      "conversionRate": "Conversion rate"
+    }
+  },
+  "admin": {
+    "dashboard": {
+      "title": "Overview",
+      "subtitle": "Platform activity, refreshed every minute.",
+      "loadError": "Unable to load statistics",
+      "users": "Users",
+      "usersSub": "{clients} clients, {providers} providers",
+      "bookings": "Bookings",
+      "bookingsSub": "{completed} completed, {pending} pending",
+      "commission": "Platform commission",
+      "commissionSub": "on {revenue} total revenue",
+      "activeSubs": "Active subscriptions",
+      "activeSubsSub": "{suspended} suspended users",
+      "monthlyRevenue": "Monthly revenue",
+      "monthlyRevenueSub": "Turnover and commission",
+      "commissionLabel": "Commission",
+      "noRevenueData": "No revenue data",
+      "bookingsChart": "Bookings",
+      "noBookings": "No bookings",
+      "topCategories": "Top categories",
+      "noData": "No data",
+      "revenueBreakdown": "Revenue breakdown",
+      "commissionShare": "Commission (10%)",
+      "providersShare": "Providers (90%)",
+      "noRevenue": "No revenue recorded",
+      "statusPending": "Pending",
+      "statusAccepted": "Accepted",
+      "statusInProgress": "In progress",
+      "statusCompleted": "Completed",
+      "statusCancelled": "Cancelled",
+      "toDo": "To handle",
+      "disputesOpen": "{count, plural, =0 {No open dispute} one {# open dispute} other {# open disputes}}",
+      "disputesHint": "Payments on hold waiting for your decision",
+      "pendingOpen": "{count, plural, =0 {No pending request} one {# unanswered request} other {# unanswered requests}}",
+      "pendingHint": "Bookings the provider has not accepted yet",
+      "suspendedOpen": "{count, plural, =0 {No suspended account} one {# suspended account} other {# suspended accounts}}",
+      "suspendedHint": "Accounts blocked by the team",
+      "open": "Open",
+      "revenueLabel": "Amount paid",
+      "usersFig": "users",
+      "bookingsFig": "bookings",
+      "commissionFig": "commission collected",
+      "subsFig": "active subscriptions"
+    },
+    "usersPage": {
+      "title": "Users",
+      "searchPlaceholder": "Name, email or phone",
+      "allRoles": "All roles",
+      "clients": "Clients",
+      "providers": "Providers",
+      "admins": "Admins",
+      "allStatuses": "All statuses",
+      "suspendedOnly": "Suspended",
+      "empty": "No users found",
+      "colUser": "User",
+      "colRole": "Role",
+      "colCity": "City",
+      "colStatus": "Status",
+      "colSignup": "Signed up",
+      "colActions": "Actions",
+      "suspended": "Suspended",
+      "active": "Active",
+      "roleClient": "Client",
+      "roleProvider": "Provider",
+      "roleAdmin": "Admin",
+      "roleAdminLong": "Administrator",
+      "changeRole": "Change role",
+      "reactivate": "Reactivate",
+      "suspend": "Suspend",
+      "delete": "Delete",
+      "confirmDelete": "Delete this user?",
+      "suspendTitle": "Suspend user",
+      "suspendReasonPlaceholder": "Reason for suspension (optional)...",
+      "cancel": "Cancel",
+      "confirm": "Confirm",
+      "subtitle": "{count, plural, =0 {No account} one {# account} other {# accounts}} matching your filters.",
+      "deleteTitle": "Delete this account?",
+      "deleteHint": "Their bookings, messages and reviews will be deleted. This cannot be undone.",
+      "suspendHint": "They will no longer be able to sign in. You can reactivate the account later.",
+      "roleHint": "The change applies at their next sign-in.",
+      "actionsFor": "Actions for {name}",
+      "pageOf": "Page {page} of {total}",
+      "since": "since {date}",
+      "actionError": "The action failed. Try again."
+    },
+    "categories": {
+      "title": "Categories",
+      "subtitle": "{count, plural, =0 {No category} one {# category} other {# categories}}, in the order clients see them.",
+      "nameLabel": "Name",
+      "new": "New category",
+      "searchPlaceholder": "Search a category...",
+      "empty": "No categories found",
+      "confirmDelete": "Delete \"{label}\"?",
+      "modalCreate": "New category",
+      "modalEdit": "Edit category",
+      "idPlaceholder": "plumbing, electricity...",
+      "labelPlaceholder": "Plumbing",
+      "iconLabel": "Icon",
+      "iconSelect": "Select an icon",
+      "order": "Display order",
+      "cancel": "Cancel",
+      "create": "Create",
+      "save": "Save",
+      "idLabel": "Identifier",
+      "idHint": "Lowercase letters, digits and dashes. Cannot change after creation.",
+      "deleteHint": "Providers in this category will need to pick another one.",
+      "delete": "Delete",
+      "edit": "Edit",
+      "actionError": "The action failed. Try again."
+    },
+    "bookings": {
+      "title": "Bookings",
+      "subtitle": "{count, plural, =0 {No booking} one {# booking} other {# bookings}} in this view.",
+      "all": "All",
+      "empty": "No bookings found",
+      "colService": "Service",
+      "colClient": "Client",
+      "colProvider": "Provider",
+      "colPrice": "Price",
+      "colStatus": "Status",
+      "colDate": "Date",
+      "colActions": "Actions",
+      "urgent": "Urgent",
+      "cancel": "Cancel booking",
+      "cancelTitle": "Cancel booking",
+      "cancelReasonPlaceholder": "Reason for cancellation (optional)...",
+      "back": "Back",
+      "confirmCancel": "Cancel booking",
+      "statusPending": "Pending",
+      "statusAccepted": "Accepted",
+      "statusInProgress": "In progress",
+      "statusCompleted": "Completed",
+      "statusCancelled": "Cancelled",
+      "statusRejected": "Rejected",
+      "client": "Client",
+      "provider": "Provider",
+      "service": "Service",
+      "forceCancel": "Force cancel",
+      "cancelReason": "Cancellation reason",
+      "noBookings": "No bookings",
+      "colPayment": "Payment",
+      "escrowNONE": "Not paid",
+      "escrowHELD": "On hold",
+      "escrowRELEASED": "Paid out",
+      "escrowREFUNDED": "Refunded",
+      "escrowDISPUTED": "Dispute",
+      "refundNote": "{amount} is on hold and will be refunded to the client.",
+      "noRefund": "No payment has been made yet.",
+      "actionsFor": "Cancel {title}",
+      "pageOf": "Page {page} of {total}",
+      "actionError": "Cancellation failed. Try again.",
+      "allBookings": "All bookings"
+    },
+    "payments": {
+      "title": "Payments",
+      "subtitle": "Everything clients paid, and the share that goes to Ouvra.",
+      "totalRevenue": "Total revenue",
+      "commission": "Commission (10%)",
+      "providerPayouts": "Paid to providers",
+      "completedPayments": "Completed payments",
+      "revenueBreakdown": "Revenue breakdown",
+      "commissionLine": "Commission:",
+      "providersLine": "Providers:",
+      "allStatuses": "All statuses",
+      "filterCompleted": "Completed",
+      "filterPending": "Pending",
+      "filterProcessing": "Processing",
+      "filterFailed": "Failed",
+      "filterRefunded": "Refunded",
+      "empty": "No payments found",
+      "colRef": "Ref.",
+      "colAmount": "Amount",
+      "colCommission": "Commission",
+      "colMethod": "Method",
+      "colStatus": "Status",
+      "colDate": "Date",
+      "methodCard": "Bank card",
+      "statusCompleted": "Completed",
+      "statusPending": "Pending",
+      "statusProcessing": "Processing",
+      "statusFailed": "Failed",
+      "statusRefunded": "Refunded",
+      "colProvider": "Provider",
+      "pageOf": "Page {page} of {total}"
+    },
+    "subscriptions": {
+      "title": "Subscriptions",
+      "subtitle": "Plans offered to providers and current subscriptions.",
+      "plansTitle": "Subscription plans",
+      "days": "{count} days",
+      "maxServices": "{count, plural, one {# service max} other {# services max}}",
+      "boost": "Boost ×{factor}",
+      "verifiedBadge": "Verified badge",
+      "prioritySupport": "Priority support",
+      "providerSubs": "Provider subscriptions",
+      "empty": "No subscriptions",
+      "colPlan": "Plan",
+      "colStart": "Start",
+      "colExpiry": "Expiry",
+      "colRenewal": "Renewal",
+      "colStatus": "Status",
+      "auto": "Auto",
+      "manual": "Manual",
+      "editPlan": "Edit plan",
+      "priceLabel": "Price (XAF)",
+      "durationLabel": "Duration (days)",
+      "maxServicesLabel": "Max services",
+      "boostLabel": "Boost",
+      "descriptionLabel": "Description",
+      "cancel": "Cancel",
+      "save": "Save",
+      "statusActive": "Active",
+      "statusExpired": "Expired",
+      "statusCancelled": "Cancelled",
+      "edit": "Edit",
+      "nameLabel": "Name",
+      "pageOf": "Page {page} of {total}",
+      "actionError": "Saving failed. Try again.",
+      "perPeriod": "FCFA for {count} days",
+      "unlimited": "Unlimited services",
+      "forever": "FCFA, no time limit"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Display, language and account.",
+    "account": "Account",
+    "accountSubtitle": "Your contact details and password are edited from your profile.",
+    "fullName": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "city": "City",
+    "notifications": "Notifications",
+    "notificationsSubtitle": "Notification preferences",
+    "notif": {
+      "email": {
+        "label": "Email notifications",
+        "desc": "Receive updates by email"
+      },
+      "push": {
+        "label": "Push notifications",
+        "desc": "Browser notifications"
+      },
+      "messages": {
+        "label": "New messages",
+        "desc": "Alerts for incoming messages"
+      },
+      "reviews": {
+        "label": "New reviews",
+        "desc": "Alerts when a review is posted"
+      },
+      "marketing": {
+        "label": "Marketing communications",
+        "desc": "Ouvra offers and news"
+      }
+    },
+    "appearance": "Appearance",
+    "appearanceSubtitle": "Applies to this device.",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "themeSystem": "System",
+    "language": "Language",
+    "languageSubtitle": "Language for the interface and notifications.",
+    "dangerZone": "Danger zone",
+    "dangerZoneSubtitle": "Deleting removes your bookings, messages and reviews. It cannot be undone.",
+    "deleteAccount": "Delete my account",
+    "deleteAccountWarning": "This action is irreversible. All your data will be permanently deleted.",
+    "cancel": "Cancel",
+    "confirmDelete": "Confirm deletion",
+    "editProfile": "Edit my profile",
+    "security": "Sign-in",
+    "securitySubtitle": "You can sign in with your number and a code sent by SMS, or with your password.",
+    "changePassword": "Change password"
+  },
+  "status": {
+    "booking": {
+      "PENDING": "Pending",
+      "ACCEPTED": "Accepted",
+      "REJECTED": "Declined",
+      "IN_PROGRESS": "In progress",
+      "COMPLETED": "Completed",
+      "CANCELLED": "Cancelled"
+    },
+    "payment": {
+      "PENDING": "Pending",
+      "COMPLETED": "Paid",
+      "FAILED": "Failed",
+      "REFUNDED": "Refunded"
+    },
+    "subscription": {
+      "ACTIVE": "Active",
+      "EXPIRED": "Expired",
+      "CANCELLED": "Cancelled"
+    },
+    "role": {
+      "CLIENT": "Client",
+      "PROVIDER": "Provider",
+      "ADMIN": "Administrator"
+    }
+  },
+  "place": {
+    "label": "Neighbourhood or city",
+    "placeholder": "Your area: Akwa, Bastos, Makepe…",
+    "useGps": "Use my location",
+    "myPosition": "My location",
+    "near": "Near {place}",
+    "locating": "Finding your location",
+    "clear": "Clear location",
+    "noMatch": "Unknown area. Try the city name.",
+    "gpsDenied": "Location denied. Type your area instead.",
+    "gpsFailed": "Location not found. Type your area instead.",
+    "gpsUnavailable": "This device does not share its location. Type your area.",
+    "within": "Within {km} km of {place}"
+  }
+}
