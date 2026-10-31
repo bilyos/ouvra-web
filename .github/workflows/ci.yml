@@ -18,6 +18,8 @@ jobs:
         with:
           node-version: 22
           cache: npm
+      # Même npm qu'en local : npm 10 lit le lockfile différemment et npm ci échoue
+      - run: npm install -g npm@11
       - run: npm ci
       - run: npm run lint
       - run: npx tsc --noEmit
